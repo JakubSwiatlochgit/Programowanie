@@ -1,0 +1,15 @@
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\Grafy.csproj.AssemblyReference.cache
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\Grafy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\Grafy.AssemblyInfoInputs.cache
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\Grafy.AssemblyInfo.cs
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\Grafy.csproj.CoreCompileInputs.cache
+C:\Users\mrmis\source\repos\Grafy\Grafy\bin\Debug\net6.0\Grafy.exe
+C:\Users\mrmis\source\repos\Grafy\Grafy\bin\Debug\net6.0\Grafy.deps.json
+C:\Users\mrmis\source\repos\Grafy\Grafy\bin\Debug\net6.0\Grafy.runtimeconfig.json
+C:\Users\mrmis\source\repos\Grafy\Grafy\bin\Debug\net6.0\Grafy.dll
+C:\Users\mrmis\source\repos\Grafy\Grafy\bin\Debug\net6.0\Grafy.pdb
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\Grafy.dll
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\refint\Grafy.dll
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\Grafy.pdb
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\Grafy.genruntimeconfig.cache
+C:\Users\mrmis\source\repos\Grafy\Grafy\obj\Debug\net6.0\ref\Grafy.dll
